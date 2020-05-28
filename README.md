@@ -5,6 +5,7 @@ This project consists of The Movie Database (TMDB) Box Office Prediction data se
 Problem Statement:
 1. Can we build models to accurately predict movie revenue?
 2. Could the results from these models be used to further increase revenue?
+
 I have tried to answer these questions by way of exploratory data analysis (EDA) in this project. The statistical data visualization library Seaborn is like workhorse to generate interactive, publication-quality graphs.
 
 ## Various Tasks in this Project are-> 
