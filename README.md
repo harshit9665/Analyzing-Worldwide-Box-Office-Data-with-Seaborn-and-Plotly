@@ -1,6 +1,7 @@
 # Analyzing-Worldwide-Box-Office-data-with-Seaborn-
 
 This project consists of The Movie Database (TMDB) Box Office Prediction data set.
+
 Problem Statement:
 1. Can we build models to accurately predict movie revenue?
 2. Could the results from these models be used to further increase revenue?
